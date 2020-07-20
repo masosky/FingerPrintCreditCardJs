@@ -1,0 +1,27 @@
+{
+  "name": "fingerprintcreditcardjs",
+  "version": "1.0.0",
+  "description": "Code for Interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "starty": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masosky/FingerPrintCreditCardJs.git"
+  },
+  "keywords": [
+    "credit",
+    "card"
+  ],
+  "author": "Xavier Mas Leszkiewicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masosky/FingerPrintCreditCardJs/issues"
+  },
+  "homepage": "https://github.com/masosky/FingerPrintCreditCardJs#readme",
+  "dependencies": {
+    "card-validator": "^7.0.1"
+  }
+}
